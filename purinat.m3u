@@ -192,7 +192,7 @@ http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/amarintv.jpg" group-title="freetv",Amarin TV
 https://vip.we-play.tv/digitaltv/amarintv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animal-planet.jpg" group-title="doc",Animal Planet
