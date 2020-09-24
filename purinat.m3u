@@ -193,264 +193,254 @@ http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/amarintv.jpg" group-title="freetv",Amarin TV
-https://vip.we-play.tv/digitaltv/amarintv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/amarintv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animal-planet.jpg" group-title="doc",Animal Planet
-https://vip.we-play.tv/documentary/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animax.jpg" group-title="kids",Animax
-https://vip.we-play.tv/kids/animax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/animax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/aniplus.jpg" group-title="kids",ANIPLUS
-https://vip.we-play.tv/kids/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena1.jpg" group-title="sport",ARENA Sport 1
-https://vip.we-play.tv/sports/arenasport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/arenasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena2.jpg" group-title="sport",ARENA Sport 2
-https://vip.we-play.tv/sports/arenasport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/arenasport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena3.jpg" group-title="sport",ARENA Sport 3
-https://vip.we-play.tv/sports/arenasport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/arenasport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena4.jpg" group-title="sport",ARENA Sport 4
-https://vip.we-play.tv/sports/arenasport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/arenasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/05/asian-food-channel.jpg" group-title="doc",Asian Food Channel
-https://vip.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/afn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg" group-title="sport",Astro Supersport 1
-https://vip.we-play.tv/sports/astro1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/astro1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg" group-title="sport",Astro Supersport 2
-https://vip.we-play.tv/sports/astro2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/astro2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg" group-title="sport",Astro Supersport 3
-https://vip.we-play.tv/sports/astro3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/astro3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title="sport",Astro Supersport 4
-https://vip.we-play.tv/sports/astro4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/astro4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/axnhd.jpg" group-title="ent",AXN
-https://vip.we-play.tv/entertainment/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/bbc-earth.jpg" group-title="doc",BBC earth
-https://vip.we-play.tv/documentary/bbc-earth/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/bbc-earth/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein1.jpg" group-title="sport",beIN Sport HD 1
-https://vip.we-play.tv/sports/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/bein1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein2.jpg" group-title="sport",beIN Sport HD 2
-https://vip.we-play.tv/sports/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title="ent",BLUEANT ENTERTAINMENT
-https://vip.we-play.tv/entertainment/blue-ent/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/blue-ent/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/boomerang.jpg" group-title="kids",Boomerang
-https://kids.we-play.tv/kids/boomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://kids.we-play.tv/kids/boomerang/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport1.jpg" group-title="sport",BT Sport 1 HD
-https://vip.we-play.tv/sports/btsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/btsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport2.jpg" group-title="sport",BT Sport 2 HD
-https://vip.we-play.tv/sports/btsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/btsport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title="sport",BT Sport 3 HD
-https://vip.we-play.tv/sports/btsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/btsport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/cartoonnetwork.jpg" group-title="kids",Cartoon Network
-https://vip.we-play.tv/kids/cnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/cnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/ccm.jpg" group-title="ent",CCM
-https://vip.we-play.tv/entertainment/ccm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/ccm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch3hd.jpg" group-title="freetv",CH3 HD
-https://vip.we-play.tv/digitaltv/ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/ch3hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch5.jpg" group-title="freetv",CH5 HD
-https://vip.we-play.tv/digitaltv/ch5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/ch5hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch7hd.jpg" group-title="freetv",CH7 HD
-https://vip.we-play.tv/digitaltv/ch7hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/ch7hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title="ent",Cinemax
-https://vip.we-play.tv/entertainment/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/cnn.jpg" group-title="news",CNN
-https://news.we-play.tv/news/cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://news.we-play.tv/news/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg" group-title="doc",Discovery Asia
-https://vip.we-play.tv/documentary/disasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/disasia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/discovery-1.jpg" group-title="doc",Discovery Channel
-https://vip.we-play.tv/documentary/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/discovery/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/disneych.jpg" group-title="kids",Disney Channel
-https://vip.we-play.tv/kids/disneych/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/disneych/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/disneyxd.jpg" group-title="kids",Disney XD
-https://vip.we-play.tv/kids/disneyxd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/espn.jpg" group-title="sport",ESPN
-https://vip.we-play.tv/sports/espn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/espn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/eurosport.jpg" group-title="sport",Eurosport Asia
-https://vip.we-play.tv/sports/ais-eurosport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/ais-eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ftv.jpg" group-title="ent",Fashion TV
-https://fash1043.cloudycdn.services/sentertainment/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://fash1043.cloudycdn.services/sentertainment/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/fightsport.jpg" group-title="sport",Fight Sport
-https://vip.we-play.tv/sports/fight/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/fight/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg" group-title="ent",Food Network
-https://vip.we-play.tv/entertainment/foodnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/foodnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/foxaction-en.jpg" group-title="ent",Fox Action EN
-https://vip.we-play.tv/entertainment/fox-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-action/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxaction.jpg" group-title="ent",Fox Action Movies
-https://vip.we-play.tv/entertainment/fox-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-action/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/fox-crime.jpg" group-title="ent",FOX Crime
-https://vip.we-play.tv/entertainment/fox-crime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-crime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/fox-family.jpg" group-title="ent",Fox Family Movies
-https://vip.we-play.tv/entertainment/fox-fam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-fam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/fox-life.jpg" group-title="ent",FOX life
-https://vip.we-play.tv/entertainment/fox-life/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-life/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/fox-movies-premium.jpg" group-title="ent",FOX Movies
-https://vip.we-play.tv/entertainment/fox-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-movies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/fox-movies-premium-en.jpg" group-title="ent",Fox Movies EN
-https://vip.we-play.tv/entertainment/fox-movies-en/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/fox-movies-en/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="sport",Fox Sport 2
-https://vip.we-play.tv/sports/fox2_720/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/fox2_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="sport",Fox Sport 3
-https://vip.we-play.tv/sports/fox3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/fox3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="sport",Fox Sport HD
-https://vip.we-play.tv/sports/fox1_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/fox1_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxth.jpg" group-title="ent",Fox ไทย
-https://vip.we-play.tv/entertainment/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/foxth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/fxhd.jpg" group-title="ent",FX HD
-https://entertainment.we-play.tv/entertainment/fxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://entertainment.we-play.tv/entertainment/fxhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/gem-1.jpg" group-title="ent",GEM
-https://vip.we-play.tv/entertainment/gem/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/gem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/gmm25.jpg" group-title="freetv",GMM25
-https://vip.we-play.tv/digitaltv/gmm25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/gmm25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/golfchannel.jpg" group-title="sport",Golf Channel
-https://vip.we-play.tv/sports/golf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/golf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="doc",H2
-https://vip.we-play.tv/documentary/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/h2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-family.jpg" group-title="ent",HBO Family
-https://vip.we-play.tv/entertainment/hbo-fam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hbo-fam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg" group-title="ent",HBO HD
-https://vip.we-play.tv/entertainment/hbo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hbo-hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg" group-title="ent",HBO Hits
-https://vip.we-play.tv/entertainment/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hbo-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg" group-title="ent",HBO Signature
-https://vip.we-play.tv/entertainment/hbo-sig/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hbo-sig/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="ent",HI-DEF1
-https://vip.we-play.tv/entertainment/hi-def1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hi-def1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.we-play.tv/wp-content/uploads/2019/03/historyhd.jpg" group-title="doc",History
-https://vip.we-play.tv/documentary/history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/history/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits.jpg" group-title="ent",Hits
-https://vip.we-play.tv/entertainment/hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits-movies.jpg" group-title="ent",HITS Movies
-https://vip.we-play.tv/entertainment/hitsmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/hitsmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/kix-hd.jpg" group-title="ent",KIX HD
-https://vip.we-play.tv/entertainment/kix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/kix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/kmtv.jpg" group-title="ent",KMTV
-https://vip.we-play.tv/entertainment/kmtv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/kmtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title="sport",LFC TV
-https://vip.we-play.tv/sports/lfctv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/lfctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/lifetime.jpg" group-title="ent",Lifetime
-https://vip.we-play.tv/entertainment/lifetime/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/lifetime/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/05/lovenature4k.jpg" group-title="doc",LoveNature 4K
-https://vip.we-play.tv/documentary/lovenature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/lovenature/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mcothd.jpg" group-title="freetv",MCOT HD
-https://vip.we-play.tv/digitaltv/mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/mcothd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mono29.jpg" group-title="ent",MONO29
-https://vip.we-play.tv/entertainment/mono29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/mono29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/07/Motor-Vision.jpg" group-title="sport",Motor Vision
-https://vip.we-play.tv/sports/motor-vision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/motor-vision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mtv-live-hd.jpg" group-title="ent",MTV LIVE HD
-https://entertainment.we-play.tv/entertainment/mtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://entertainment.we-play.tv/entertainment/mtv-entertainment/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mutv.jpg" group-title="sport",MUTV
-https://vip.we-play.tv/sports/mutv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/mutv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/natgeowild.jpg" group-title="doc",Nat Geo Wild
-https://vip.we-play.tv/documentary/natwild/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/natwild/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/nationalgeographic.jpg" group-title="doc",National Geographic
-https://vip.we-play.tv/documentary/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/documentary/natgeo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nationtv.jpg" group-title="freetv",NationTV
-https://vip.we-play.tv/digitaltv/nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/nationtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/nbatv.jpg" group-title="sport",NBA
-https://vip.we-play.tv/sports/nba/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/nba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/nfl-network.jpg" group-title="sport",NFL Network
-https://vip.we-play.tv/sports/nfl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/nfl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/nhk-world.jpg" group-title="news",NHK World
-https://news.we-play.tv/news/nhk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://news.we-play.tv/news/nhk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nickelodeon.jpg" group-title="kids",Nickelodeon
-https://vip.we-play.tv/kids/nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/nickjr.jpg" group-title="kids",NickJr
-https://vip.we-play.tv/kids/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/one31.jpg" group-title="freetv",ONE HD
-https://vip.we-play.tv/digitaltv/one31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/one31/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title="ent",Outdoor Channel
-https://vip.we-play.tv/entertainment/outdoor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/outdoor/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg" group-title="ent",Paramount Channel
-https://vip.we-play.tv/entertainment/paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/pptv.jpg" group-title="freetv",PPTV HD
-https://vip.we-play.tv/digitaltv/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/pptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/redbyhbo.jpg" group-title="ent",RED by HBO
-https://vip.we-play.tv/entertainment/red/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/red/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport1.jpg" group-title="sport",SKYNET Sports 1
-https://vip.we-play.tv/sports/skynet1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynet1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport2.jpg" group-title="sport",SKYNET Sports 2
-https://vip.we-play.tv/sports/skynet2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynet2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport3.jpg" group-title="sport",SKYNET Sports 3
-https://vip.we-play.tv/sports/skynet3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynet3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport4.jpg" group-title="sport",SKYNET Sports 4
-https://vip.we-play.tv/sports/skynet4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynet4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="sport",SKYNET Sports 5
-https://vip.we-play.tv/sports/skynet5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynet5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport6.jpg" group-title="sport",SKYNET Sports 6
-https://vip.we-play.tv/sports/skynet6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynet6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="sport",SKYNET Sports HD
-https://vip.we-play.tv/sports/skynethd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/skynethd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv1.jpg" group-title="sport",SPORT TV 1
-https://vip.we-play.tv/sports/sporttv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/sporttv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg" group-title="sport",SPORT TV 3
-https://vip.we-play.tv/sports/sporttv3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/sporttv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/star-chinese-channel.jpg" group-title="ent",Star Chinese Channel
-https://vip.we-play.tv/entertainment/starchinesechannel/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/starchinesechannel/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg" group-title="ent",Star Chinese Movies
-https://vip.we-play.tv/entertainment/scm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/scm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/iconcerts.jpg" group-title="ent",Stingray iConcerts
-https://vip.we-play.tv/entertainment/iconcerts/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/iconcerts/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/thaipbs.jpg" group-title="freetv",Thai PBS
-https://digitaltv.we-play.tv/digitaltv/thaipbs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://digitaltv.we-play.tv/digitaltv/thaipbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title="ent",True Asian Series HD
-https://vip.we-play.tv/entertainment/trueasianhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/trueasianhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg" group-title="ent",True Film Asia
-https://vip.we-play.tv/entertainment/truefilmasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/truefilmasia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truefilmhd.jpg" group-title="ent",True Film HD
-https://vip.we-play.tv/entertainment/truefilmhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/truefilmhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-movie-hits.jpg" group-title="ent",True Movie Hits
-https://entertainment.we-play.tv/entertainment/true-movie-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://entertainment.we-play.tv/entertainment/true-movie-hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="sport",True Premier Football HD 1
-https://vip.we-play.tv/sports/tpf1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tpf1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="sport",True Premier Football HD 2
-https://vip.we-play.tv/sports/tpf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tpf2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="sport",True Premier Football HD 3
-https://vip.we-play.tv/sports/tpf3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tpf3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="sport",True Premier Football HD 4
-https://vip.we-play.tv/sports/tpf4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tpf4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="sport",True Premier Football HD 5
-https://vip.we-play.tv/sports/tpf5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tpf5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-series.jpg" group-title="ent",True Series
-https://entertainment.we-play.tv/entertainment/true-series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://entertainment.we-play.tv/entertainment/true-series/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truesparkjump.jpg" group-title="kids",True Spark Jump
-https://vip.we-play.tv/kids/sparkjump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/kids/sparkjump/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="sport",True Sport 2
-https://vip.we-play.tv/sports/tsp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tsp2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="sport",True Sport 5
-https://vip.we-play.tv/sports/tsp5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="sport",True Sport 6
-https://vip.we-play.tv/sports/tsp6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tsp6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="sport",True Sport 7
-https://vip.we-play.tv/sports/tsp7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="sport",True Sport HD
-https://vip.we-play.tv/sports/thd1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/thd1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="sport",True Sport HD 2
-https://vip.we-play.tv/sports/thd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/thd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="sport",True Sport HD 3
-https://vip.we-play.tv/sports/thd3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/thd3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truetennis.jpg" group-title="sport",True Tennis
-https://vip.we-play.tv/sports/tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/sports/tennis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg" group-title="ent",True Thai Film
-https://vip.we-play.tv/entertainment/truethaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/truethaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title="ent",True X-ZYTE
-https://vip.we-play.tv/entertainment/xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/xzyte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/true4u.jpg" group-title="freetv",true4U
-https://vip.we-play.tv/digitaltv/true4u/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/true4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title="ent",tvN
-https://vip.we-play.tv/entertainment/tvn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/tvn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/07/wakuwakujapan-logo.png" group-title="ent",Waku Waku Japan
-https://vip.we-play.tv/entertainment/wakuwakujapan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/wakuwakujapan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/warnertv.jpg" group-title="ent",Warner TV
-https://vip.we-play.tv/entertainment/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/warner/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/workpointtv.jpg" group-title="freetv",Workpoint
-https://vip.we-play.tv/digitaltv/workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/digitaltv/workpoint/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/zeenung.jpg" group-title="ent",ZEE หนัง
-https://vip.we-play.tv/entertainment/zeenung/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
+https://vip.we-play.tv/entertainment/zeenung/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/thairathtv.jpg" group-title="freetv",ไทยรัฐ
-https://vip.we-play.tv/digitaltv/thairathtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDM6NDg6MDkgUE0maGFzaF92YWx1ZT1SV0Njckl6TFFDQUttRlU4enB6cER3PT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-
-
-
-
-
-
-
+https://vip.we-play.tv/digitaltv/thairathtv/playlist.m3u8
