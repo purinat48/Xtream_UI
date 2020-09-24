@@ -16,8 +16,8 @@ http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/hbo.jpg" group-title="PREMIUM", 6. HBO
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",7. FOX MOVIES HD
+http://dootvthai-hd.com/cmd/api/true/Fox-Movie/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",8. Fox Action movies HD
 http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
@@ -190,10 +190,8 @@ http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",64. Fox Sports 3
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES
-http://ip2121.com:8081/live2/foxpre/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES
-http://dootvthai-hd.com/cmd/api/true/Fox-Movie/playlist.m3u8
+
+
 
 
 
