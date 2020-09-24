@@ -19,8 +19,8 @@ https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_movies.png" group-title="PREMIUM", 7. FOX Movies HD
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_action_movies.png" group-title="PREMIUM", 8. Fox Action Movies HD
-http://160.119.77.50/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",8. Fox Action movies HD
+http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_thai.jpg" group-title="PREMIUM", 9. FOX Thai HD
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
