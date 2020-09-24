@@ -89,7 +89,7 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 http://livesport2018.dyndns.tv:8080/live/mcothd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/one.png" group-title="THAI DIGITAL TV", 31. ONE HD
-https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
+http://183.182.100.184/live/onehd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/thairath.png" group-title="THAI DIGITAL TV", 32. Thairath TV HD
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
