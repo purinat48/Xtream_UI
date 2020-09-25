@@ -62,7 +62,7 @@ http://stream.rs.co.th/ch2-hi/index.m3u8
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/nation.jpg" group-title="THAI DIGITAL TV", 22. Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+http://202.170.127.178:1935/dcinode001/nation.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/workpoint.png" group-title="THAI DIGITAL TV", 23. Workpoint TV
 http://27.254.130.56:80/live01/ch7.m3u8
