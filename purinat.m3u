@@ -1,449 +1,114 @@
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tv5.png" group-title="THAI DIGITAL TV", 1. TV5 HD
-http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/nbt.png" group-title="THAI DIGITAL TV", 2. NBT HD
-http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w406984828.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/thaipbs.png" group-title="THAI DIGITAL TV", 3. Thai PBS HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/altv.png" group-title="THAI DIGITAL TV", 4. ALTV HD
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/true_film_hd.png" group-title="PREMIUM", 5. True Film HD
-http://160.119.77.50/iptv/hd-tfilm.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/hbo.jpg" group-title="PREMIUM", 6. HBO
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",7. FOX MOVIES HD
-http://dootvthai-hd.com/cmd/api/true/Fox-Movie/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",8. Fox Action movies HD
-http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/fox_thai.jpg" group-title="PREMIUM", 9. FOX Thai HD
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tptv.png" group-title="THAI DIGITAL TV", 10. TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd1.png" group-title="PREMIUM", 11. Premier HD1
-http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd2.png" group-title="PREMIUM", 12. Premier HD2
-http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd3.png" group-title="PREMIUM", 13. Premier HD3
-http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd4.png" group-title="PREMIUM", 14. Premier HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/premier_hd5.png" group-title="PREMIUM", 15. Premier HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/tnn16.png" group-title="THAI DIGITAL TV", 16. TNN16
-http://119.59.125.74/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a&.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/news1.png" group-title="SAT & CABLE", 17. NEWS1 HD
-http://news1.live14.com/stream/news1_hi.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/new18.jpg" group-title="THAI DIGITAL TV", 18. NEW 18 HD
-https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-xWirZG81XGE8VfZnTSmEw)/dm/3/x7kx5i7/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/psi.png" group-title="SAT & CABLE", 19. PSI Saradee HD
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch2.png" group-title="SAT & CABLE", 20. CH2 RS
-http://stream.rs.co.th/ch2-hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/voice_tv.png" group-title="SAT & CABLE", 21. Voice TV HD
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/nation.jpg" group-title="THAI DIGITAL TV", 22. Nation TV
-http://202.170.127.178:1935/dcinode001/nation.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/workpoint.png" group-title="THAI DIGITAL TV", 23. Workpoint TV
-http://27.254.130.56:80/live01/ch7.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/true4u.png" group-title="THAI DIGITAL TV", 24. True4U
-https://cdn161.cloud-streaming.com/ilike4kin_x6/true4u_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/gmm25.png" group-title="THAI DIGITAL TV", 25. GMM25
-http://183.182.100.184/live/mcothd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/m.png" group-title="SAT & CABLE", 26. M Channel
-http://27.254.142.207:8080/live/web.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch8.jpg" group-title="THAI DIGITAL TV", 27. CH8 RS
-http://stream.rs.co.th/ch8-hi/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/monoplus.png" group-title="THAI DIGITAL TV", 28. MONO PLUS HD
+#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/monoplus.png",TH: Monoplus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mono29.png" group-title="THAI DIGITAL TV", 29. MONO29 HD
+#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",TH: MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mcot.png" group-title="THAI DIGITAL TV", 30. MCOT HD
-http://livesport2018.dyndns.tv:8080/live/mcothd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/one.png" group-title="THAI DIGITAL TV", 31. ONE HD
-http://183.182.100.184/live/onehd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/thairath.png" group-title="THAI DIGITAL TV", 32. Thairath TV HD
+#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/31.png",TH: GMM ONE HD
+http://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/32.png",TH: Thairath 32
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch3.png" group-title="THAI DIGITAL TV", 33. CH3 HD
-https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/amarin.png" group-title="THAI DIGITAL TV", 34. Amarin TV HD
-http://27.254.130.64:80/feed/chamarin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch7.png" group-title="THAI DIGITAL TV", 35. CH7 HD
-http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/pptv.png" group-title="THAI DIGITAL TV", 36. PPTV HD
-http://203.150.107.30:8081/tested2iptv/core1/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png", 37. beIN SPORTS1 HD
+#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/34.png",TH: Amarin TV Thai HD
+http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a20756983
+#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/36.png",TH: PPTV HD
+http://27.254.130.64/live01/ch2.m3u8?p=st
+#EXTINF:1,MCOT HD
+http://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/premierfootball1.png",Premier HD1
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/premierfootball2.png",Premier HD2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport1.jpg",true Sport HD1
+http://dootvthai-hd.com/cmd/true/truesport-HD/playlist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport2.jpg",true Sport HD2
+http://dootvthai-hd.com/cmd/true/truesport-HD2/playlist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport3.jpg",true Sport HD3
+http://dootvthai-hd.com/cmd/true/truesport-HD3/playlist.m3u8
+#EXTINF:1,true Sport HD4
+http://cdn-service-hd.livestream-cdn.com/iptv/hd-tsport4.stream/chunks.m3u8?st=lZjYEKbxdzI-rfgPWdBtgQ&e=1601544586&edge=1
+#EXTINF:1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png",TRUE SPORT 2
+http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
+#EXTINF:1,TRUE SPORT 5
+http://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:1,TRUE SPORT 6
+http://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:1,TRUE SPORT 7
+http://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:1,FOX SPORT 1
+http://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FOX SPORT 2
+http://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:1,FOX SPORT 3
+http://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,TH: News1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS 1 HD
 http://203.150.107.30:8081/tested2iptv/core2/chunklist_w353411422.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/bein2.png" group-title="PREMIUM", 38. beIN Sports HD2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/up1.jpg" group-title="SAT & CABLE", 39. UP1 Movie
-http://27.254.149.109:8081/tumlive/upmovie.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ctb.png" group-title="SAT & CABLE", 40. CTB TV
-http://vip.login.in.th:1935/CTB/CTB/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 41. Live SKY 1 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 42. Live SKY 2 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 43. Live SKY 3 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/csat.jpg" group-title="SAT & CABLE", 44. Live SKY 4 HD
-http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/warner.png" group-title="PREMIUM", 45. Warner TV HD
-http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/axn.png" group-title="PREMIUM", 46. AXN HD
-https://livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/blue_ant.jpg" group-title="PREMIUM", 47. Blue Ant ENT HD
-http://160.119.77.50/iptv/hd-rtlcbs.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/bbc_earth.jpg" group-title="PREMIUM", 48. BBC Earth HD
-http://160.119.77.50/iptv/sd-bbcearth.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/history.png" group-title="PREMIUM", 49. History HD
-http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/history2.png" group-title="PREMIUM", 50. History2 HD
-http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/one.png" group-title="BACKUP", 51. ONE HD (Alt)
-http://160.119.77.50/iptv/hd-gmmone.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/thairath.png" group-title="BACKUP", 52. Thairath TV HD (Alt)
-http://160.119.77.50/iptv/hd-thairath.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch3.png" group-title="BACKUP", 53. CH3 HD (Alt)
-http://160.119.77.50/iptv/hd-ch3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/amarin.png" group-title="BACKUP", 54. Amarin TV HD (Alt)
-http://160.119.77.50/iptv/hd-amarin.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch7.png" group-title="BACKUP", 55. CH7 HD (Alt)
-http://160.119.77.50/iptv/hd-ch7.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/pptv.png" group-title="BACKUP", 56. PPTV HD (Alt)
-https://www.livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/workpoint.png" group-title="BACKUP", 57. Workpoint TV HD (Alt)
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8q30Oq6q3ZbMXqdfaKukUEk)/dm/3/x6g9qjj/s/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/ch8.jpg" group-title="BACKUP", 58. CH8 RS (Alt)
-http://27.254.130.64/live01/ch15.m3u8?p=st
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/mono29.png" group-title="BACKUP", 59. MONO29 HD (Alt)
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptvthai.my.to/logo/gmm25.png" group-title="BACKUP", 60. GMM25 HD (Alt)
-https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_cfvfql2ZXu2yUlmvoy4Fkc)/dm/3/x6rz4t7/s/live-3.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",61. Fox family EN
+#EXTINF:1,beIN SPORTS 2 HD
+http://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR30y2o4Ilv5g16S5nBOC_FeWZrVFjjjSNVzIF9YZPknpQSy3Qx&usqp=CAU",Fox Sports News Australia
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://i.imgur.com/A4GMBN6.png",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/tennis.png",true Tennis
+http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",ATP tennis
+http://203.154.243.89:11739/
+#EXTINF:1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:1 group-title="Sports" tvg-logo="http://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png",Ten sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 4
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",Fox Movies Premium (TH)
+http://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://teevee-hd.com/img/foxthai.png",FOX Thai(TH)
+http://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action (TH)
+http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",Fox family EN
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-
-#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",62. Fox Sports 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",63. Fox Sports 2
-http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",64. Fox Sports 3
-http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/amarintv.jpg"group-title="freetv",Amarin TV
-https://vip.we-play.tv/digitaltv/amarintv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animal-planet.jpg" group-title="doc",Animal Planet
-https://vip.we-play.tv/documentary/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/animax.jpg"group-title="kids",Animax
-https://vip.we-play.tv/kids/animax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/aniplus.jpg"group-title="kids",ANIPLUS
-https://vip.we-play.tv/kids/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena1.jpg"group-title="sport",ARENA Sport 1
-https://vip.we-play.tv/sports/arenasport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena2.jpg"group-title="sport",ARENA Sport 2
-https://vip.we-play.tv/sports/arenasport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena3.jpg"group-title="sport",ARENA Sport 3
-https://vip.we-play.tv/sports/arenasport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/arena4.jpg"group-title="sport",ARENA Sport 4
-https://vip.we-play.tv/sports/arenasport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/05/asian-food-channel.jpg"group-title="doc",Asian Food Channel
-https://vip.we-play.tv/documentary/afn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/Astro1.jpg"group-title="sport",Astro Supersport 1
-https://vip.we-play.tv/sports/astro1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro2.jpg"group-title="sport",Astro Supersport 2
-https://vip.we-play.tv/sports/astro2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro3.jpg"group-title="sport",Astro Supersport 3
-https://vip.we-play.tv/sports/astro3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/astro4.jpg" group-title="sport",Astro Supersport 4
-https://vip.we-play.tv/sports/astro4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/axnhd.jpg" group-title="ent",AXN
-https://vip.we-play.tv/entertainment/axn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/bbc-earth.jpg" group-title="doc",BBC earth
-https://vip.we-play.tv/documentary/bbc-earth/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein1.jpg" group-title="sport",beIN Sport HD 1
-https://vip.we-play.tv/sports/bein1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/bein2.jpg" group-title="sport",beIN Sport HD 2
-https://vip.we-play.tv/sports/bein2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/blueant-entertainment.jpg" group-title="ent",BLUEANT ENTERTAINMENT
-https://vip.we-play.tv/entertainment/blue-ent/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/boomerang.jpg" group-title="kids",Boomerang
-https://kids.we-play.tv/kids/boomerang/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport1.jpg" group-title="sport",BT Sport 1 HD
-https://vip.we-play.tv/sports/btsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport2.jpg" group-title="sport",BT Sport 2 HD
-https://vip.we-play.tv/sports/btsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/btsport3.jpg" group-title="sport",BT Sport 3 HD
-https://vip.we-play.tv/sports/btsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/cartoonnetwork.jpg" group-title="kids",Cartoon Network
-https://vip.we-play.tv/kids/cnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/ccm.jpg" group-title="ent",CCM
-https://vip.we-play.tv/entertainment/ccm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch3hd.jpg" group-title="freetv",CH3 HD
-https://vip.we-play.tv/digitaltv/ch3hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch5.jpg" group-title="freetv",CH5 HD
-https://vip.we-play.tv/digitaltv/ch5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/ch7hd.jpg" group-title="freetv",CH7 HD
-https://vip.we-play.tv/digitaltv/ch7hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/cinemax.jpg" group-title="ent",Cinemax
-https://vip.we-play.tv/entertainment/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/cnn.jpg" group-title="news",CNN
-https://news.we-play.tv/news/cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg" group-title="doc",Discovery Asia
-https://vip.we-play.tv/documentary/disasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/discovery-1.jpg" group-title="doc",Discovery Channel
-https://vip.we-play.tv/documentary/discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/disneych.jpg" group-title="kids",Disney Channel
-https://vip.we-play.tv/kids/disneych/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/disneyxd.jpg" group-title="kids",Disney XD
-https://vip.we-play.tv/kids/disneyxd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/espn.jpg" group-title="sport",ESPN
-https://vip.we-play.tv/sports/espn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/eurosport.jpg" group-title="sport",Eurosport Asia
-https://vip.we-play.tv/sports/ais-eurosport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ftv.jpg" group-title="ent",Fashion TV
-https://fash1043.cloudycdn.services/sentertainment/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/fightsport.jpg" group-title="sport",Fight Sport
-https://vip.we-play.tv/sports/fight/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/food-network.jpg" group-title="ent",Food Network
-https://vip.we-play.tv/entertainment/foodnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/foxaction-en.jpg" group-title="ent",Fox Action EN
-https://vip.we-play.tv/entertainment/fox-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxaction.jpg" group-title="ent",Fox Action Movies
-https://vip.we-play.tv/entertainment/fox-action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/fox-crime.jpg" group-title="ent",FOX Crime
-https://vip.we-play.tv/entertainment/fox-crime/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/fox-family.jpg" group-title="ent",Fox Family Movies
-https://vip.we-play.tv/entertainment/fox-fam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/fox-life.jpg" group-title="ent",FOX life
-https://vip.we-play.tv/entertainment/fox-life/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/fox-movies-premium.jpg" group-title="ent",FOX Movies
-https://vip.we-play.tv/entertainment/fox-movies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/fox-movies-premium-en.jpg" group-title="ent",Fox Movies EN
-https://vip.we-play.tv/entertainment/fox-movies-en/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport2.jpg" group-title="sport",Fox Sport 2
-https://vip.we-play.tv/sports/fox2_720/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="sport",Fox Sport 3
-https://vip.we-play.tv/sports/fox3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="sport",Fox Sport HD
-https://vip.we-play.tv/sports/fox1_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/foxth.jpg" group-title="ent",Fox ไทย
-https://vip.we-play.tv/entertainment/foxth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/fxhd.jpg" group-title="ent",FX HD
-https://entertainment.we-play.tv/entertainment/fxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/gem-1.jpg" group-title="ent",GEM
-https://vip.we-play.tv/entertainment/gem/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/gmm25.jpg" group-title="freetv",GMM25
-https://vip.we-play.tv/digitaltv/gmm25/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/golfchannel.jpg" group-title="sport",Golf Channel
-https://vip.we-play.tv/sports/golf/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/h2.jpg" group-title="doc",H2
-https://vip.we-play.tv/documentary/h2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-family.jpg" group-title="ent",HBO Family
-https://vip.we-play.tv/entertainment/hbo-fam/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hd.jpg" group-title="ent",HBO HD
-https://vip.we-play.tv/entertainment/hbo-hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/hbo-hit.jpg" group-title="ent",HBO Hits
-https://vip.we-play.tv/entertainment/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg" group-title="ent",HBO Signature
-https://vip.we-play.tv/entertainment/hbo-sig/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/hi-def1.jpg" group-title="ent",HI-DEF1
-https://vip.we-play.tv/entertainment/hi-def1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.we-play.tv/wp-content/uploads/2019/03/historyhd.jpg" group-title="doc",History
-https://vip.we-play.tv/documentary/history/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits.jpg" group-title="ent",Hits
-https://vip.we-play.tv/entertainment/hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/03/hits-movies.jpg" group-title="ent",HITS Movies
-https://vip.we-play.tv/entertainment/hitsmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/kix-hd.jpg" group-title="ent",KIX HD
-https://vip.we-play.tv/entertainment/kix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/kmtv.jpg" group-title="ent",KMTV
-https://vip.we-play.tv/entertainment/kmtv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/lfctv.jpg" group-title="sport",LFC TV
-https://vip.we-play.tv/sports/lfctv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/lifetime.jpg" group-title="ent",Lifetime
-https://vip.we-play.tv/entertainment/lifetime/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/05/lovenature4k.jpg" group-title="doc",LoveNature 4K
-https://vip.we-play.tv/documentary/lovenature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mcothd.jpg" group-title="freetv",MCOT HD
-https://vip.we-play.tv/digitaltv/mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mono29.jpg" group-title="ent",MONO29
-https://vip.we-play.tv/entertainment/mono29/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/07/Motor-Vision.jpg" group-title="sport",Motor Vision
-https://vip.we-play.tv/sports/motor-vision/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mtv-live-hd.jpg" group-title="ent",MTV LIVE HD
-https://entertainment.we-play.tv/entertainment/mtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/mutv.jpg" group-title="sport",MUTV
-https://vip.we-play.tv/sports/mutv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/natgeowild.jpg" group-title="doc",Nat Geo Wild
-https://vip.we-play.tv/documentary/natwild/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/nationalgeographic.jpg" group-title="doc",National Geographic
-https://vip.we-play.tv/documentary/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nationtv.jpg" group-title="freetv",NationTV
-https://vip.we-play.tv/digitaltv/nationtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/nbatv.jpg" group-title="sport",NBA
-https://vip.we-play.tv/sports/nba/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/nfl-network.jpg" group-title="sport",NFL Network
-https://vip.we-play.tv/sports/nfl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/nhk-world.jpg" group-title="news",NHK World
-https://news.we-play.tv/news/nhk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/nickelodeon.jpg" group-title="kids",Nickelodeon
-https://vip.we-play.tv/kids/nickelodeon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/02/nickjr.jpg" group-title="kids",NickJr
-https://vip.we-play.tv/kids/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/one31.jpg" group-title="freetv",ONE HD
-https://vip.we-play.tv/digitaltv/one31/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/outdoor-channel.jpg" group-title="ent",Outdoor Channel
-https://vip.we-play.tv/entertainment/outdoor/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/paramount.jpg" group-title="ent",Paramount Channel
-https://vip.we-play.tv/entertainment/paramount/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/pptv.jpg" group-title="freetv",PPTV HD
-https://vip.we-play.tv/digitaltv/pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/redbyhbo.jpg" group-title="ent",RED by HBO
-https://vip.we-play.tv/entertainment/red/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport1.jpg" group-title="sport",SKYNET Sports 1
-https://vip.we-play.tv/sports/skynet1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport2.jpg" group-title="sport",SKYNET Sports 2
-https://vip.we-play.tv/sports/skynet2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport3.jpg" group-title="sport",SKYNET Sports 3
-https://vip.we-play.tv/sports/skynet3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport4.jpg" group-title="sport",SKYNET Sports 4
-https://vip.we-play.tv/sports/skynet4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="sport",SKYNET Sports 5
-https://vip.we-play.tv/sports/skynet5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport6.jpg" group-title="sport",SKYNET Sports 6
-https://vip.we-play.tv/sports/skynet6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="sport",SKYNET Sports HD
-https://vip.we-play.tv/sports/skynethd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv1.jpg" group-title="sport",SPORT TV 1
-https://vip.we-play.tv/sports/sporttv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/sporttv3.jpg" group-title="sport",SPORT TV 3
-https://vip.we-play.tv/sports/sporttv3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/star-chinese-channel.jpg" group-title="ent",Star Chinese Channel
-https://vip.we-play.tv/entertainment/starchinesechannel/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/scm.jpg" group-title="ent",Star Chinese Movies
-https://vip.we-play.tv/entertainment/scm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/iconcerts.jpg" group-title="ent",Stingray iConcerts
-https://vip.we-play.tv/entertainment/iconcerts/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/thaipbs.jpg" group-title="freetv",Thai PBS
-https://digitaltv.we-play.tv/digitaltv/thaipbs/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/true-asian-series.jpg" group-title="ent",True Asian Series HD
-https://vip.we-play.tv/entertainment/trueasianhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/11/true-film-asia.jpg" group-title="ent",True Film Asia
-https://vip.we-play.tv/entertainment/truefilmasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truefilmhd.jpg" group-title="ent",True Film HD
-https://vip.we-play.tv/entertainment/truefilmhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-movie-hits.jpg" group-title="ent",True Movie Hits
-https://entertainment.we-play.tv/entertainment/true-movie-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-1.jpg" group-title="sport",True Premier Football HD 1
-https://vip.we-play.tv/sports/tpf1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-2.jpg" group-title="sport",True Premier Football HD 2
-https://vip.we-play.tv/sports/tpf2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-3.jpg" group-title="sport",True Premier Football HD 3
-https://vip.we-play.tv/sports/tpf3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-4.jpg" group-title="sport",True Premier Football HD 4
-https://vip.we-play.tv/sports/tpf4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/07/true-epl-5.jpg" group-title="sport",True Premier Football HD 5
-https://vip.we-play.tv/sports/tpf5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/true-series.jpg" group-title="ent",True Series
-https://entertainment.we-play.tv/entertainment/true-series/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truesparkjump.jpg" group-title="kids",True Spark Jump
-https://vip.we-play.tv/kids/sparkjump/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="sport",True Sport 2
-https://vip.we-play.tv/sports/tsp2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="sport",True Sport 5
-https://vip.we-play.tv/sports/tsp5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="sport",True Sport 6
-https://vip.we-play.tv/sports/tsp6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="sport",True Sport 7
-https://vip.we-play.tv/sports/tsp7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="sport",True Sport HD
-https://vip.we-play.tv/sports/thd1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="sport",True Sport HD 2
-https://vip.we-play.tv/sports/thd2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="sport",True Sport HD 3
-https://vip.we-play.tv/sports/thd3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truetennis.jpg" group-title="sport",True Tennis
-https://vip.we-play.tv/sports/tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/truethaifilm.jpg" group-title="ent",True Thai Film
-https://vip.we-play.tv/entertainment/truethaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/04/truexzyte.jpg" group-title="ent",True X-ZYTE
-https://vip.we-play.tv/entertainment/xzyte/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/true4u.jpg" group-title="freetv",true4U
-https://vip.we-play.tv/digitaltv/true4u/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/tvn.jpg" group-title="ent",tvN
-https://vip.we-play.tv/entertainment/tvn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/07/wakuwakujapan-logo.png" group-title="ent",Waku Waku Japan
-https://vip.we-play.tv/entertainment/wakuwakujapan/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/12/warnertv.jpg" group-title="ent",Warner TV
-https://vip.we-play.tv/entertainment/warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/10/workpointtv.jpg" group-title="freetv",Workpoint
-https://vip.we-play.tv/digitaltv/workpoint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2020/09/zeenung.jpg" group-title="ent",ZEE หนัง
-https://vip.we-play.tv/entertainment/zeenung/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/06/thairathtv.jpg" group-title="freetv",ไทยรัฐ
-https://vip.we-play.tv/digitaltv/thairathtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIwIDU6MDM6MzcgUE0maGFzaF92YWx1ZT1tNDlpaFpQQVpKbFlVRTYvUncvMytBPT0mdmFsaWRtaW51dGVzPTIw
-
-
-
-
+#EXTINF:1 group-title="Movie" tvg-logo="http://images.iptvhero.com/channel/hd-axn.png",AXN (true visions)
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:1 group-title="Movie" tvg-logo="http://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner TV (HD)
+http://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",US:Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:1,NBA HD
+http://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:1,ANIMAL PLANET
+http://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:1,National Geographic (TH)
+http://cdn-service-hd.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8?st=qNSsCS5fepmWzdnmntd17A&e=1601544119&edge=1
+#EXTINF:1,HISTORY HD
+http://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:1,TRUE4YOU
+http://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:1,3 HD
+http://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:1,5 HD
+http://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:1,7 HD
+http://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:1,HITS MOVIES
+http://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:1,RedbyHBO HD
+http://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:1,HBO HITS
+http://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:1,HBO HD
+http://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:1,LFC TV
+http://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:1,MU TV
+http://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF:1,ChelseaTV
+http://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF:1,BT SPORT HD1
+http://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:1,BT SPORT HD2
+http://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
