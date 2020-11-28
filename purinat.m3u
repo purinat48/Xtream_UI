@@ -1,114 +1,115 @@
-#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/monoplus.png",TH: Monoplus
+#EXTM3U
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/monoplus.png",TH: Monoplus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist_w501711662.m3u8
-#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",TH: MONO29 HD
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/29.png",TH: MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/31.png",TH: GMM ONE HD
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/31.png",TH: GMM ONE HD
 http://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/32.png",TH: Thairath 32
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/32.png",TH: Thairath 32
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/34.png",TH: Amarin TV Thai HD
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/34.png",TH: Amarin TV Thai HD
 http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a20756983
-#EXTINF:1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/36.png",TH: PPTV HD
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/36.png",TH: PPTV HD
 http://27.254.130.64/live01/ch2.m3u8?p=st
-#EXTINF:1,MCOT HD
+#EXTINF:-1,MCOT HD
 http://www.livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/premierfootball1.png",Premier HD1
+#EXTINF:-1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/premierfootball1.png",Premier HD1
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/premierfootball2.png",Premier HD2
+#EXTINF:-1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/premierfootball2.png",Premier HD2
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport1.jpg",true Sport HD1
+#EXTINF:-1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport1.jpg",true Sport HD1
 http://dootvthai-hd.com/cmd/true/truesport-HD/playlist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport2.jpg",true Sport HD2
+#EXTINF:-1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport2.jpg",true Sport HD2
 http://dootvthai-hd.com/cmd/true/truesport-HD2/playlist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport3.jpg",true Sport HD3
+#EXTINF:-1 group-title="Sports" tvg-logo="http://images.ufoiptv.com/channels/hd-tsport3.jpg",true Sport HD3
 http://dootvthai-hd.com/cmd/true/truesport-HD3/playlist.m3u8
-#EXTINF:1,true Sport HD4
+#EXTINF:-1,true Sport HD4
 http://cdn-service-hd.livestream-cdn.com/iptv/hd-tsport4.stream/chunks.m3u8?st=lZjYEKbxdzI-rfgPWdBtgQ&e=1601544586&edge=1
-#EXTINF:1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png",TRUE SPORT 2
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport2.png",TRUE SPORT 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
-#EXTINF:1,TRUE SPORT 5
+#EXTINF:-1,TRUE SPORT 5
 http://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:1,TRUE SPORT 6
+#EXTINF:-1,TRUE SPORT 6
 http://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:1,TRUE SPORT 7
+#EXTINF:-1,TRUE SPORT 7
 http://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
+#EXTINF:-1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:1,FOX SPORT 1
+#EXTINF:-1,FOX SPORT 1
 http://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FOX SPORT 2
+#EXTINF:-1 group-title="Sports" tvg-logo="http://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FOX SPORT 2
 http://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:1,FOX SPORT 3
+#EXTINF:-1,FOX SPORT 3
 http://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,TH: News1
+#EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,TH: News1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS 1 HD
 http://203.150.107.30:8081/tested2iptv/core2/chunklist_w353411422.m3u8
-#EXTINF:1,beIN SPORTS 2 HD
+#EXTINF:-1,beIN SPORTS 2 HD
 http://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR30y2o4Ilv5g16S5nBOC_FeWZrVFjjjSNVzIF9YZPknpQSy3Qx&usqp=CAU",Fox Sports News Australia
+#EXTINF:-1 group-title="Sports" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR30y2o4Ilv5g16S5nBOC_FeWZrVFjjjSNVzIF9YZPknpQSy3Qx&usqp=CAU",Fox Sports News Australia
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://i.imgur.com/A4GMBN6.png",Red Bull TV
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.imgur.com/A4GMBN6.png",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/tennis.png",true Tennis
+#EXTINF:-1 group-title="Sports" tvg-logo="http://teevee-hd.com/img/tennis.png",true Tennis
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",ATP tennis
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",ATP tennis
 http://203.154.243.89:11739/
-#EXTINF:1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
+#EXTINF:-1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:1 group-title="Sports" tvg-logo="http://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png",Ten sports
+#EXTINF:-1 group-title="Sports" tvg-logo="http://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png",Ten sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 4
+#EXTINF:-1 group-title="Movie" tvg-logo="http://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 4
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",Fox Movies Premium (TH)
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",Fox Movies Premium (TH)
 http://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://teevee-hd.com/img/foxthai.png",FOX Thai(TH)
+#EXTINF:-1 group-title="Movie" tvg-logo="http://teevee-hd.com/img/foxthai.png",FOX Thai(TH)
 http://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action (TH)
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action (TH)
 http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",Fox family EN
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.freetv-thai.com/wp-content/uploads/2018/03/images-2.png",Fox family EN
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://images.iptvhero.com/channel/hd-axn.png",AXN (true visions)
+#EXTINF:-1 group-title="Movie" tvg-logo="http://images.iptvhero.com/channel/hd-axn.png",AXN (true visions)
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:1 group-title="Movie" tvg-logo="http://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner TV (HD)
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner TV (HD)
 http://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
+#EXTINF:-1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",US:Red Bull TV
+#EXTINF:-1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",US:Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:1,NBA HD
+#EXTINF:-1,NBA HD
 http://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:1,ANIMAL PLANET
+#EXTINF:-1,ANIMAL PLANET
 http://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:1,National Geographic (TH)
+#EXTINF:-1,National Geographic (TH)
 http://cdn-service-hd.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8?st=qNSsCS5fepmWzdnmntd17A&e=1601544119&edge=1
-#EXTINF:1,HISTORY HD
+#EXTINF:-1,HISTORY HD
 http://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:1,TRUE4YOU
+#EXTINF:-1,TRUE4YOU
 http://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:1,3 HD
+#EXTINF:-1,3 HD
 http://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:1,5 HD
+#EXTINF:-1,5 HD
 http://www.livedoomovies.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:1,7 HD
+#EXTINF:-1,7 HD
 http://www.livedoomovies.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:1,HITS MOVIES
+#EXTINF:-1,HITS MOVIES
 http://www.livedoomovies.com/02_HITSMOVIE_720p/chunklist.m3u8
-#EXTINF:1,RedbyHBO HD
+#EXTINF:-1,RedbyHBO HD
 http://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:1,HBO HITS
+#EXTINF:-1,HBO HITS
 http://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:1,HBO HD
+#EXTINF:-1,HBO HD
 http://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:1,LFC TV
+#EXTINF:-1,LFC TV
 http://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-#EXTINF:1,MU TV
+#EXTINF:-1,MU TV
 http://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:1,ChelseaTV
+#EXTINF:-1,ChelseaTV
 http://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
-#EXTINF:1,BT SPORT HD1
+#EXTINF:-1,BT SPORT HD1
 http://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:1,BT SPORT HD2
+#EXTINF:-1,BT SPORT HD2
 http://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
