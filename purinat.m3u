@@ -33,14 +33,16 @@ http://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 http://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1,TRUE SPORT 7
 http://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRERJprFeY-mRHqUmX2o4EePlRs75wv71ceWEePhIaX0cibF9Jl&usqp=CAU",US:FOX Sport HD 1
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1,FOX SPORT 1
-http://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",FOX SPORT 2
-http://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1,FOX SPORT 3
-http://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
+https://doofootball.livestream-cdn.com/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
+https://doofootball.livestream-cdn.com/iptv/sd-foxsports2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",Fox Sports 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports3.png",Fox Sports 3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,TH: News1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS 1 HD
