@@ -31,6 +31,8 @@ http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/m.png",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://iptvthai.my.to/logo/fox_thai.jpg",9. FOX Thai HD
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="THAI DIGITAL TV" tvg-logo="http://iptvthai.my.to/logo/mono29.png",29. MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 #EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/30.png",TH: MCOT HD 30
