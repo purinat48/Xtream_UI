@@ -33,9 +33,21 @@ http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
 https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/m.png",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1 group-title="THAI DIGITAL TV" tvg-logo="http://iptvthai.my.to/logo/mono29.png",29. MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13",Bein Sports 1 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13",Bein Sports 2 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/31.png",TH: GMM ONE HD
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/33.png",TH: THAI 33 HD
+http://119.59.125.74/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/34.png",TH: Amarin TV Thai HD
+http://119.59.125.74/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a20756983
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/35.png",TH:THAI 7HD
+http://119.59.125.74/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde&.m3u
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/36.png",TH: PPTV HD
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+#EXTINF:-1 group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/30.png",TH: MCOT HD 30
+https://doofootball.livestream-cdn.com/iptv/hd-mcot.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
