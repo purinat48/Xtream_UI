@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.we-play.live/wp-content/uploads/2019/10/amarintv.jpg" group-title="freetv",Amarin TV
-http://r5-sn-w5nuxa-o536.googlevideocdn.com/digitaltv/amarintv/playlist.ts?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjI1OjA1IFBNJmhhc2hfdmFsdWU9QTZCRVA2andPMDZqTEVoajBIMmwzZz09JnZhbGlkbWludXRlcz0yMA==
+http://r5-sn-w5nuxa-o536.googlevideocdn.com/digitaltv/amarintv/playlist.ts
 #EXTINF:-1 tvg-logo="https://www.we-play.live/wp-content/uploads/2019/05/animal-planet.jpg" group-title="doc",Animal Planet
 https://r5-sn-w5nuxa-o536.googlevideocdn.com/documentary/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjkvMjAyMCA1OjI1OjA1IFBNJmhhc2hfdmFsdWU9QTZCRVA2andPMDZqTEVoajBIMmwzZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-logo="https://www.we-play.live/wp-content/uploads/2019/05/animax.jpg" group-title="kids",Animax
