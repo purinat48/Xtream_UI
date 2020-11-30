@@ -18,11 +18,11 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/nba/chunks.m3u8?nimblesessio
 #EXTINF:-1,Motor Vision
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/motor-vision/chunks.m3u8?nimblesessionid=15613526&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjIxOjIyIEFNJmhhc2hfdmFsdWU9cG1yMEpwMGFkWHNtaVNlNjdsdGMzUT09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,True Sports HD
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjIyOjI2IEFNJmhhc2hfdmFsdWU9eW45anZvOVNmeGgrTmJPRTF0RysrZz09JnZhbGlkbWludXRlcz02MA==
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd1/chunks.m3u8?nimblesessionid=15613963&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjI1OjIyIEFNJmhhc2hfdmFsdWU9V1I4TWY4QjZIWWIxUmQ1Wjc4YXQ4Zz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,True Sports HD 2
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjIzOjQ4IEFNJmhhc2hfdmFsdWU9bDJ2cXo2WkxUVWdKcmVSS1pSYUhydz09JnZhbGlkbWludXRlcz02MA==
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd2/chunks.m3u8?nimblesessionid=15614007&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjI1OjUzIEFNJmhhc2hfdmFsdWU9WjFGYU44NDNkUmlmcFd3KytCUmNUdz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,True Sports HD 3
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjI0OjQ0IEFNJmhhc2hfdmFsdWU9bVhVWXFmNDBoc1pWYjN6d2o4MzV6UT09JnZhbGlkbWludXRlcz02MA==
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd3/chunks.m3u8?nimblesessionid=15614040&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAyOjI2OjE3IEFNJmhhc2hfdmFsdWU9dER2MmtGMGEvR3B2MlVFVlNFeEpidz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,FOX THAI
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjI4OjUwIEFNJmhhc2hfdmFsdWU9ZFpobDdPMG91TDE4KzJ2c25ZT0lrUT09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,FOX Action Movies
