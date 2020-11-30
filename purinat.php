@@ -16,4 +16,4 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tennis/chunks.m3u8?wmsAuthSi
 #EXTINF:-1,NBA TV
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/nba/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjA5OjE1IEFNJmhhc2hfdmFsdWU9ZnlmbWJvZVdMZUU0Uko2ajV1eHdrZz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,Motor Vision
-https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/motor-vision/l_5701_73698080_2857.ts?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjEwOjE3IEFNJmhhc2hfdmFsdWU9dHovV1hQWnlEOFRWeDF4cFZIRzY0QT09JnZhbGlkbWludXRlcz02MA==
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/motor-vision/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjEwOjE3IEFNJmhhc2hfdmFsdWU9dHovV1hQWnlEOFRWeDF4cFZIRzY0QT09JnZhbGlkbWludXRlcz02MA==
