@@ -45,3 +45,13 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hbo-hd/chunks.m3u8?wm
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/hbo-sig/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQwOjM3IEFNJmhhc2hfdmFsdWU9UHByK0hud09KTFhRVzl4M0pONkZSdz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,FOX Movies 
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/fox-movies-en/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQxOjQ1IEFNJmhhc2hfdmFsdWU9dUg3eGk3bnpFaWdrYzNwQnhmYUQ3dz09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,BT Sport 1 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/btsport1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQ0OjU5IEFNJmhhc2hfdmFsdWU9aWhmNFp2dEJRaURwbVlKaXNvRG1XUT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,BT Sport 2 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/btsport2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQ2OjA1IEFNJmhhc2hfdmFsdWU9Y295aDJ4NjBEOHl1KzBpenprT0RCUT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,BT Sport 3 HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/btsport3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQ2OjUxIEFNJmhhc2hfdmFsdWU9L2hQNUs2M1A2VEYvVXNEcW5pTDNHQT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,MUTV
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/mutv/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQ4OjAxIEFNJmhhc2hfdmFsdWU9blV3R1REV3VVcGNSS0VEZGMrc2Z3QT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,Eurosport 
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/ais-eurosport/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjQ5OjI0IEFNJmhhc2hfdmFsdWU9NjBoaDZlOHh3UVd1TzZtaExRaThPQT09JnZhbGlkbWludXRlcz02MA==
