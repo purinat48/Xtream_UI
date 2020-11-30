@@ -17,3 +17,9 @@ https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/tennis/chunks.m3u8?wmsAuthSi
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/nba/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjA5OjE1IEFNJmhhc2hfdmFsdWU9ZnlmbWJvZVdMZUU0Uko2ajV1eHdrZz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,Motor Vision
 https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/motor-vision/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjEwOjE3IEFNJmhhc2hfdmFsdWU9dHovV1hQWnlEOFRWeDF4cFZIRzY0QT09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,True Sports HD
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjIyOjI2IEFNJmhhc2hfdmFsdWU9eW45anZvOVNmeGgrTmJPRTF0RysrZz09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,True Sports HD 2
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjIzOjQ4IEFNJmhhc2hfdmFsdWU9bDJ2cXo2WkxUVWdKcmVSS1pSYUhydz09JnZhbGlkbWludXRlcz02MA==
+#EXTINF:-1,True Sports HD 3
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/thd3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMCAxOjI0OjQ0IEFNJmhhc2hfdmFsdWU9bVhVWXFmNDBoc1pWYjN6d2o4MzV6UT09JnZhbGlkbWludXRlcz02MA==
